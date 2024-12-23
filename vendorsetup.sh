@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_akita-user
-add_lunch_combo omni_akita-userdebug
-add_lunch_combo omni_akita-eng
+add_lunch_combo twrp_akita-user
+add_lunch_combo twrp_akita-userdebug
+add_lunch_combo twrp_akita-eng
